@@ -1,1 +1,2 @@
 halohub/halo:2
+1panel/openresty:latest
